@@ -31,3 +31,48 @@ loop.
 20. Write a program to find the GCD of two numbers using a do-while loop.
 21. Write a program to find the sum of even digits and odd digits separately in a
 number using a do-while loop
+
+
+#assignments for Arrays
+
+1. How do you Declare and Initialise an array
+2. Write a Java program to iterate through all the elements of an array and print them.
+3. Find and print the length of an array using built in method in Java
+4. Initialise an array and update its values with new values and print the updated array.
+5. Write a Java program to find the sum of all elements in an array.
+6. Write a Java program to find the average of all elements in an array.
+7. Write a Java program to count the number of even and odd elements in an array.
+8. Find the maximum value in an array in Java?
+9. Check if an element exists in an array in Java?
+10. Print the elements of an array in the reverse order
+11. How do you sort an array in Java?
+12. How do you concatenate two arrays in Java?
+13. How do you find the minimum value in an array in Java?
+14. How do you sort an array of objects in Java?
+15. How do you remove duplicates from an array in Java?
+16. How do you remove an element from an array in Java?
+17. How do you insert an element into an array in Java?
+18. How do you merge two arrays in Java?
+19. How do you copy an array in Java?
+20. How do you compare two arrays in Java?
+21. How do you find the frequency of an element in an array in Java?
+22. How do you find the second largest element in an array in Java?
+23. How do you find the missing number in an array of integers in Java?
+24. Write a Java program to print the following pattern:
+        1
+        12
+        123
+        1234
+        12345
+25. Write a Java program to print the following pattern:
+        1
+        22
+        333
+        4444
+        55555
+26. Write a Java program to print the following pattern:
+        *****
+        ****
+        ***
+        **
+
