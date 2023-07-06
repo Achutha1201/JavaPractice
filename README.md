@@ -1,4 +1,22 @@
 # JavaPractice
+Assignment questions for Conditional Statements
+
+➔ program to find maximum between two numbers (inputs from scanner class).
+➔ Write a program to find maximum between three numbers. (inputs from scanner
+class).
+➔ Write a program to check whether a number is negative, positive or zero.
+➔ Write a program to check whether a number is divisible by 4 and 100 or not.
+➔ Write a program to check whether a number is even or odd.
+➔ Write a program to input any alphabet and check whether it is vowel or consonant.
+➔ Write a program to read the value of an integer m and display the value of n is 1
+when m is larger than 0, 0 when m is 0 and -1 when m is less than 0.
+➔ Write a program to check whether a triangle can be formed by the given value for the
+angles.(3 angles sum should be 180 , );
+➔ Write a program to calculate profit and loss on a transaction. (inputs from scanner
+class , SellingPrice and CostPrice).
+➔ Write a program in to read any Month Number in integer and display Month name in
+the word. (use case statement )
+
 Assignment questions for loops
 1. Write a program to print the numbers from 1 to 10 using a for loop.
 2. Write a program to print the even numbers from 1 to 20 using a while loop.
